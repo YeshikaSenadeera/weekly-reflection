@@ -1,0 +1,11 @@
+{
+  "name": "weekly-reflection-with-love",
+  "owner": { "name": "Yeshika Senadeera" },
+  "plugins": [
+    {
+      "name": "weekly-reflection-with-love",
+      "source": "./",
+      "description": "A loving weekly reflection in your favourite TV or movie character's voice: specific wins, honest lessons, one small action, and a check-in on last week's."
+    }
+  ]
+}
