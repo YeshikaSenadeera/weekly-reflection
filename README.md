@@ -36,7 +36,7 @@ From the Claude directory: search **Weekly Reflection with Love** and add it.
 Or in Claude Code:
 
 ```
-/plugin marketplace add YeshikaSenadeera/weekly-reflection-with-love
+/plugin marketplace add YeshikaSenadeera/weekly-reflection
 /plugin install weekly-reflection-with-love@weekly-reflection-with-love
 ```
 
