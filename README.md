@@ -31,7 +31,9 @@ Every week it looks at what you did, tells you what you did well, gives you hone
 
 ## Install
 
-In Claude Code:
+From the Claude directory: search **Weekly Reflection with Love** and add it.
+
+Or in Claude Code:
 
 ```
 /plugin marketplace add YeshikaSenadeera/weekly-reflection-with-love
